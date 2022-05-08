@@ -40,7 +40,7 @@ Profile.defaultProps = {
   name: 'User name',
   tag: '@User tag',
   location: 'User location',
-  avatar: 'https://www.flaticon.com/svg/static/icons/svg/3784/3784184.svg',
+  avatar: 'https://cdn-icons-png.flaticon.com/512/1077/1077012.png', */https://www.flaticon.com/svg/static/icons/svg/3784/3784184.svg',
   stats: {
     followers: '0',
     views: '0',
